@@ -1,2 +1,4 @@
+
 # powershell-dotfiles
-Scripts to restore a custom Powershell 7 configuration.
+
+Scripts to set up a custom Powershell 7 configuration.
